@@ -8,7 +8,7 @@
 * **Phone**: +995551044964
 * **E-mail**: pinniki97@gmail.com
 * **Discrod**: Nikita QA#0312
-* **Git**: pinniki
+* **Git**: [GitHub](https://github.com/pinniki)
 ******
 ### Shortly about me
 I'm 25 years old. Working as a Manual Qa Engineer for 3 years. Nowadays I live in Georgia. I moved here from Belarus. 
