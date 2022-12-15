@@ -1,0 +1,21 @@
+.container {
+    margin: auto auto;
+    width: 1400px;
+    background-color:rgb(151, 211, 183);
+    padding: 0 10px;
+    border-radius: 20px;
+}
+
+.footer {
+    background-color: rgb(120, 172, 240);
+    width: inherit;
+    border-radius: inherit;
+}
+
+.GitHub_img {
+    width: 100px;
+    height: 54px;
+}
+body {
+    background-color: rgb(124, 124, 123);
+}
