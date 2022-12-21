@@ -8,6 +8,7 @@
     border-radius: 20px;
 }
 
+
 .header {
     display: flex;
     justify-content:space-around;
@@ -28,13 +29,66 @@
 .developer {
     margin:0 auto;
     font-size: 30px;
-    font-style: oblique;
+    /* font-style: oblique; */
     padding: 10px;
     letter-spacing: 5px;
 }
 
 .photo {
     border-radius: 100px;
+    box-shadow: 0 0 0 0 black;
+}
+
+.main_container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding: 10px 10%;
+    align-content: space-evenly;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.grid {
+    text-align: left;
+    padding: 10px 10%;
+    width: 100%;
+    height: auto;
+    /* border: 1px solid black; */
+    
+}
+
+.contacts {
+    font-size: 35px;
+}
+
+.about {
+    font-size: 35px;
+}
+
+
+.about_text {
+    font-size: 20px;
+    font-style: italic;
+}
+
+.skills {
+    font-size: 35px;
+}
+
+.code_ex {
+    font-size: 35px;
+}
+
+.expereience {
+    font-size: 35px;
+}
+
+.education {
+    font-size: 35px;
+}
+
+.languages {
+    font-size: 35px;
 }
 
 .footer {
@@ -63,4 +117,16 @@ body {
     font-size: 30px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    font-size: 25px;
+}
+
+.experience_qa {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 10px;
 }
