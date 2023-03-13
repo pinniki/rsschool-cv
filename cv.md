@@ -41,7 +41,7 @@ function countSheeps(arrayOfSheep)
 Qa Mobile Engineer - 3 Years.
 * Testing an app on different platforms (Android/IOS)
 * Regress/smoke tests
-* Creating Test Cases, User Cases
+* Creating Test Cases, User Cases, interview plan
 * Onboarding Junior Qa
 * interviewing new specialists
 ******
