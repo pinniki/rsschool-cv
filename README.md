@@ -1,1 +1,1 @@
-# rsschool-cv
+https://pinniki.github.io/rsschool-cv/cv
